@@ -1,0 +1,24 @@
+{
+  "name": "dirnamejz",
+  "version": "1.0.0",
+  "description": "Create alternatives to '__dirname' and '__filename' for use with ES modules.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "jz",
+    "dirname",
+    "filename",
+    "esmodules"
+  ],
+  "author": "OWLjz18 <owl.jz18@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OWLjz18/dirnamejz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OWLjz18/dirnamejz/issues"
+  },
+  "homepage": "https://github.com/OWLjz18/dirnamejz#readme"
+}
